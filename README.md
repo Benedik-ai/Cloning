@@ -1,19 +1,20 @@
-# This is a Test
+# Cloning
 
-> Hello **Darkness** _my_ old ~~Friend~~
->> ~~Good~~ seeing you again
-> > > * _OR something_
->>  > * Second
+>  **Cloning**is truely special
+>> 
+> > > * Thats a Clone
+>>  > * Thats a Clone
+>>  > * 
 >>  >
 ```
 
-print ("Hello World")
+print ("Clone")
 
 ```
 
 
-| Test            | This is a table |
+| Cloning            | Cloning |
 |-----:| ---------------:|
-| kk|   keine ahnung  |
+| is just crazy |  is just crazy  |
 
-[Klick mich uf der stelle](https://github.com/)
+[But the Individuality goes away](https://github.com/)
