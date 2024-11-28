@@ -10,3 +10,8 @@
 print ("Hello World")
 
 ```
+
+
+| Test | This is a table |
+|-----:| ---------------:|
+|   LO |   keine ahnung  |
