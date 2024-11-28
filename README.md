@@ -12,6 +12,6 @@ print ("Hello World")
 ```
 
 
-| Test | This is a table |
+| Test            | This is a table |
 |-----:| ---------------:|
-|   LO |   keine ahnung  |
+| kk|   keine ahnung  |
